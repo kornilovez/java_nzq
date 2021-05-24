@@ -5,6 +5,7 @@ public class MyFirstProgram {
 	public static void main(String[] args) {
 	    hello("user");
 	    hello("Andrey");
+	    hello("vsem salyam");
 
 	    double l = 5;
 		System.out.println("Площадь кв со стороной " + l + " = " + area(l));
