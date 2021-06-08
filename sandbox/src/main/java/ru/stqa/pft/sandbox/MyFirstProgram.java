@@ -20,6 +20,7 @@ public class MyFirstProgram {
 		Point p2 = new Point(2, -2);
 
 		System.out.println("Расстояние между точками p1(" + p1.a + "," + p1.b +")" + " и p2(" + p2.a + "," + p2.b + ")" + " равно " + p1.distance(p2));
+//		System.out.println(String.format("Расстояние между точками p1(%1$s, %2$s) и p2(%3$s, %4$s) равно %5$s", p1.a, p1.b, p2.a, p2.b, p1.distance(p2)));
 
 //		первый варик
 //		Point p1 = new Point();
